@@ -1,4 +1,14 @@
+
+
 theme: jekyll-theme-minimal
 title: "Mi Blog"
 description: "Un blog donde compartiré sobre mis pasatiempos, arte y viajes."
 url: "https://castilloluis-856.github.io/blog" # Asegúrate de reemplazar "tu-usuario"
+
+navigation:
+  - title: "Inicio"
+    url: "/"
+  - title: "Categorías"
+    url: "/categories/"
+  - title: "Sobre mí"
+    url: "/sobre-mi/"
