@@ -1,11 +1,22 @@
-# Bienvenido a mi Blog
+---
+layout: home
+title: "Bienvenido a mi Blog"
+---
 
-¡Hola! Este es mi primer post en **GitHub Pages**. Estoy emocionado de compartir mis pensamientos sobre arte, viajes y más.
+# ¡Hola! Bienvenidos a mi blog
 
-## ¿Qué esperar?
+Este es mi primer post en **GitHub Pages**. En este blog compartiré mis pensamientos sobre arte, viajes y más.
 
-- Experiencias de viaje por todo el mundo 🌍
-- Consejos sobre arte y creatividad 🎨
-- Mis lecturas y reseñas 📚
+## ¿Qué esperar de este blog?
 
-¡Espero que disfruten el contenido!
+- Mis experiencias de viaje 🌍
+- Proyectos creativos 🎨
+- Recomendaciones de libros 📚
+
+¡Espero que disfruten y sigan el blog!
+
+---
+
+## Lo que he escrito recientemente
+
+- [Mi primer post: Viaje a París](2025-07-22-mi-primer-post.md)
