@@ -1,0 +1,109 @@
+/* Estilos generales del sitio */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4 {
+    color: #2C3E50;
+}
+
+/* Header */
+header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+/* Estilos para la barra de navegación */
+nav {
+    background-color: #2C3E50;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 20px;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Contenido principal */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+article {
+    margin-bottom: 40px;
+}
+
+article h2 {
+    font-size: 2rem;
+    color: #2C3E50;
+}
+
+article p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+/* Estilos para las imágenes */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+}
+
+/* Footer */
+footer {
+    background-color: #2C3E50;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Responsividad */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    nav a {
+        font-size: 0.9rem;
+        margin: 0 10px;
+    }
+
+    main {
+        margin: 10px;
+        padding: 10px;
+    }
+}
