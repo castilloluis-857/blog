@@ -1,0 +1,18 @@
+theme: jekyll-theme-minimal
+title: "Mi Blog"
+description: "Un blog donde compartiré sobre mis pasatiempos, arte y viajes."
+url: "https://tu-usuario.github.io/mi-blog" # Cambia "tu-usuario" por tu nombre de usuario de GitHub
+
+# Barra de navegación
+navigation:
+  - title: "Inicio"
+    url: "/"
+  - title: "Categorías"
+    url: "/categories/"
+  - title: "Sobre mí"
+    url: "/sobre-mi/"
+
+# Permite organizar las entradas por categorías
+collections:
+  posts:
+    output: true
