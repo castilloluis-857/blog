@@ -1,7 +1,0 @@
-navigation:
-  - title: "Inicio"
-    url: "/"
-  - title: "Categorías"
-    url: "/categories/"
-  - title: "Sobre mí"
-    url: "/sobre-mi/"
